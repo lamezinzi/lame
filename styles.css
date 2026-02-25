@@ -5,14 +5,14 @@ selector{
 body{
   font-family: Lora;
   color: #333;
-  background-color: #EDE8DO;
+  background-color: F5F5F5;
   margin: 0;
   padding: 0;
   line-height: 1.6;
 }
 
 header{
-  background-color: #4CAF50; 
+  background-color: #EDE80; 
   color: white;
   padding: 20px;
   text-align: center;
@@ -65,7 +65,7 @@ font-size: 1.1em;
 
 a {
 
-color: #4CAF50;
+color: #EDE80;
 
 text-decoration: none;
 
@@ -79,7 +79,7 @@ text-decoration: underline;
 }
 img {
 
-border: 5px solid #4CAF50;
+border: 5px solid #EDE80;
 
 border-radius: 10px;
 
