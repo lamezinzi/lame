@@ -13,23 +13,23 @@ body{
 
 header{
   background-color: #1B3022; 
-  color: forest green;
+  color: white;
   padding: 20px;
   text-align: center;
 }
 
 header h1 {
-  margim: 0;
+  margin: 0;
 }
 
 nav a {
-  color: #1B3022;
+  color: #white;
   text-decoration: none;
   margin: 0 10px
 }
 
 nav a:hover {
-  color: #606C38
+  color: #white 
   text-decoration: underline;
 }
 
