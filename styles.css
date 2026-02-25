@@ -12,8 +12,8 @@ body{
 }
 
 header{
-  background-color: #EDE8D0; 
-  color: beige;
+  background-color: #4CAF50; 
+  color: white;
   padding: 20px;
   text-align: center;
 }
@@ -65,7 +65,7 @@ font-size: 1.1em;
 
 a {
 
-color: #EDE8D0;
+color: #4CAF50;
 
 text-decoration: none;
 
